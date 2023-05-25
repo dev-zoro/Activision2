@@ -1,0 +1,26 @@
+img {
+    margin-left: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 5%;
+}
+
+img:hover {
+    box-sizing: 450px;
+}
+
+.overlay {
+    transform: scale(0);
+    transition: .3s ease;
+    transform: scale(1);
+}
+.header{
+    height: 50px;
+}
+.grid-col {
+    margin-left: 10px !important;
+    margin-right: 10px !important;
+}
+.design {
+    margin-top: 10px;
+}
